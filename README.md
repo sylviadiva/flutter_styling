@@ -1,6 +1,6 @@
 # flutter_project
 
-A new Flutter project.
+This about basic homepage styling from figma using Flutter Mobile Apps
 
 ## Getting Started
 
