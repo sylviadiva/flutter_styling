@@ -16,6 +16,8 @@ This project is a starting point for a mobile application. Build with Flutter SD
 
 <img src="https://user-images.githubusercontent.com/33641023/128631373-16949985-54d6-4409-8489-2f3541381fc3.png" width="411" height="731">
 
+## Flutter Documentation
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
@@ -24,3 +26,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Developer
+
+<a href="https://github.com/sylviadiva" target="_blank">Sylvia Divalona</a>
