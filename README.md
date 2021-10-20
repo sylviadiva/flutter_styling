@@ -1,15 +1,20 @@
-# flutter_project
+# iWallet
 
-This about basic homepage styling from figma using Flutter Mobile Apps
+Basic UI Slicing for Homepage of iWallet App
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
-For Flutter SDK, this project use SDK >= 2.0. 
+This project is a starting point for a mobile application. Build with Flutter SDK, this project use SDK >= 2.0. 
+
+## Tools Requirement
+
+- Android Studio
+- Flutter SDK 
+- Figma
 
 ## Project Snapshoot
 
-![Screenshot_1627996938](https://user-images.githubusercontent.com/33641023/128631373-16949985-54d6-4409-8489-2f3541381fc3.png)
+<img src="https://user-images.githubusercontent.com/33641023/128631373-16949985-54d6-4409-8489-2f3541381fc3.png" width="411" height="731">
 
 A few resources to get you started if this is your first Flutter project:
 
